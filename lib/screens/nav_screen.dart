@@ -55,7 +55,7 @@ class _NavScreenState extends State<NavScreen> {
               unselectedFontSize: 11.0,
               onTap: (index) => setState(() => _currentIndex = index),
             )
-          : null,
+          :null,
     );
   }
 }

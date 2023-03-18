@@ -6,7 +6,9 @@ class Previews extends StatelessWidget {
   final String title;
   final List<Content> contentList;
 
-  const Previews({
+  const Previews({ 
+
+    
     Key key,
     @required this.title,
     @required this.contentList,
